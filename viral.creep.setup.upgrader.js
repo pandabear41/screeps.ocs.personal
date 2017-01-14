@@ -1,13 +1,13 @@
 module.exports = {
 	minControllerLevel: 2,
 	RCL: {
-	    1: setup.none,
-	    2: setup.default,
-	    3: setup.default,
-	    4: setup.default,
-	    5: setup.default,
-	    6: setup.default,
-	    7: setup.default,
-	    8: setup.default
+	    1: Creep.setup.upgrader.none,
+	    2: Creep.setup.upgrader.default,
+	    3: Creep.setup.upgrader.default,
+	    4: Creep.setup.upgrader.default,
+	    5: Creep.setup.upgrader.default,
+	    6: Creep.setup.upgrader.default,
+	    7: Creep.setup.upgrader.default,
+	    8: Creep.setup.upgrader.default
 	},
 };
