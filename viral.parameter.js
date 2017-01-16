@@ -1,7 +1,7 @@
 module.exports = {
     SAY_PUBLIC: false,
     CREEP_NEW_PATHFINDER: false,
-    SPAWN_DEFENSE_ON_ATTACK: false,
+    SPAWN_DEFENSE_ON_ATTACK: true,
     CONTROLLER_SIGN: true,
     MAX_STORAGE_ENERGY: {
     	1: 2000,
